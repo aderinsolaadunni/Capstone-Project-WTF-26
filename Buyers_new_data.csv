@@ -1,0 +1,201 @@
+buyer_id,buyer_name,main_category,needs,accepted_subcategories,max_capacity_kg,current_available_kg,max_distance_km,demand_level,latitude,longitude
+1,Buyer_1_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",6125,1930,32,0.97,6.842923302250139,3.929131619108782
+2,Buyer_2_Bioenergy,bioenergy,"bioenergy, Fish Waste, Meat Trimmings","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",2257,1647,68,0.34,6.589307222009578,3.5550334254923253
+3,Buyer_3_Compost,compost,"compost, Fruit Pulp, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5409,1462,60,0.83,6.927112447027717,3.821510920112136
+4,Buyer_4_Bioenergy,bioenergy,"bioenergy, Meat Trimmings, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",7685,2508,66,0.9,6.859523799093059,3.4614606715049443
+5,Buyer_5_Compost,compost,"compost, Vegetable Residue, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",2180,656,67,0.52,6.823430974780443,3.6954594822251448
+6,Buyer_6_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",540,4916,28,0.49,6.9729666648499355,3.565096006373068
+7,Buyer_7_Compost,compost,"compost, Restaurant Prep Waste, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5122,1293,43,0.25,6.553940168207221,3.2126887742239076
+8,Buyer_8_Biofuel,biofuel,"biofuel, Animal Fat Residue, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",5618,475,14,0.66,6.638135475776961,3.634457424621534
+9,Buyer_9_Compost,compost,"compost, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5308,1350,40,0.48,6.536944816903343,3.3662749223421375
+10,Buyer_10_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",789,977,38,0.85,6.97866355991443,3.2305143837560726
+11,Buyer_11_Bioenergy,bioenergy,"bioenergy, Meat Trimmings","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",7307,1194,78,0.63,6.8276319152536304,3.979719226309832
+12,Buyer_12_Bioenergy,bioenergy,"bioenergy, Meat Trimmings, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",1654,4432,44,0.99,6.810036547846128,3.4499949222438744
+13,Buyer_13_Bioenergy,bioenergy,"bioenergy, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",7006,3798,28,0.5,6.592300570438936,3.820430489656023
+14,Buyer_14_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",7430,5331,70,0.96,6.405097939336527,3.5006455396256735
+15,Buyer_15_Animal_Feed,animal_feed,"animal_feed, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",5856,583,46,0.32,6.912087072442517,3.816158345938005
+16,Buyer_16_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",1006,2760,29,0.27,6.739263533912752,3.868396503040482
+17,Buyer_17_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",6577,2545,54,0.73,6.827353909420262,3.3452055499485787
+18,Buyer_18_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",1428,515,38,0.22,6.620404372150557,3.4704455547910626
+19,Buyer_19_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5691,3297,35,0.77,6.695251656278745,3.347640460599211
+20,Buyer_20_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food, Meat Trimmings","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",1772,170,55,0.73,6.406110410070125,3.5770250986113967
+21,Buyer_21_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",2165,1254,27,0.44,6.592479604493075,3.470959422101317
+22,Buyer_22_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",6748,5368,40,0.64,6.857225006301301,3.2937625674246647
+23,Buyer_23_Bioenergy,bioenergy,"bioenergy, Fish Waste, Expired Packaged Food","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",6457,1897,31,0.61,6.81312532546146,3.8748789057454984
+24,Buyer_24_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",5445,4395,19,0.6,6.988914293577829,3.8593388831594844
+25,Buyer_25_Bioenergy,bioenergy,"bioenergy, Meat Trimmings, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",5720,4289,26,0.33,6.782136901857525,3.450373650963769
+26,Buyer_26_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",607,901,68,0.76,6.4872541625191396,3.965405813216131
+27,Buyer_27_Compost,compost,"compost, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",1709,2471,33,0.74,6.497494340310261,3.4302190254139355
+28,Buyer_28_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",2300,3772,69,0.39,6.469324847458349,3.9415529614422793
+29,Buyer_29_Bioenergy,bioenergy,"bioenergy, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",2355,4784,69,0.33,6.757377891648564,3.785472974082883
+30,Buyer_30_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",4723,1665,40,0.95,6.628047524667203,3.987787707012266
+31,Buyer_31_Compost,compost,"compost, Vegetable Residue, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",6980,182,67,0.85,6.745874029955281,3.847971720533083
+32,Buyer_32_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food, Meat Trimmings","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",7799,5381,71,0.74,6.838388728047902,3.4320340489288426
+33,Buyer_33_Bioenergy,bioenergy,"bioenergy, Meat Trimmings","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",4289,2230,64,0.62,6.768666246464203,3.5376902476786554
+34,Buyer_34_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",642,3898,12,0.66,6.773655723231936,3.310056185837572
+35,Buyer_35_Animal_Feed,animal_feed,"animal_feed, Dairy Whey, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",6673,2379,47,0.28,6.639014482848477,3.521869767450373
+36,Buyer_36_Animal_Feed,animal_feed,"animal_feed, Grain Husk, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",5459,3319,22,0.94,6.908951609717425,3.6237688455654107
+37,Buyer_37_Compost,compost,"compost, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",4788,4621,24,0.51,6.63886227619224,3.8942130387220204
+38,Buyer_38_Bioenergy,bioenergy,"bioenergy, Poultry Residue, Expired Packaged Food","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",4925,5975,22,0.39,6.86103512713637,3.2204304112476416
+39,Buyer_39_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",2123,3426,75,0.76,6.679952441767049,3.2954558347636027
+40,Buyer_40_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",3224,589,15,0.41,6.559470807050014,3.232437824718286
+41,Buyer_41_Compost,compost,"compost, Fruit Pulp, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",2710,5722,11,0.3,6.934936771603103,3.660208429992364
+42,Buyer_42_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",4299,4317,44,0.91,6.715998567884791,3.66173192812624
+43,Buyer_43_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",7660,2799,75,0.6,6.921018647165009,3.3804363259649266
+44,Buyer_44_Animal_Feed,animal_feed,"animal_feed, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",5031,2554,18,0.31,6.651101105386588,3.4185780964331345
+45,Buyer_45_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",5351,3564,36,0.8,6.9413723273407255,3.818654239645855
+46,Buyer_46_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",6643,4526,24,0.36,6.484122784290504,3.3257009754182794
+47,Buyer_47_Compost,compost,"compost, Vegetable Residue, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",4900,5530,58,0.97,6.418608065595975,3.4871145316940293
+48,Buyer_48_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",6804,1052,32,0.45,6.88104119623522,3.5037475827139986
+49,Buyer_49_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",3573,5702,21,0.5,6.671040545211604,3.797596987627044
+50,Buyer_50_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",5599,4817,78,0.56,6.429410651763533,3.778635111226201
+51,Buyer_51_Biofuel,biofuel,"biofuel, Animal Fat Residue, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",2415,1801,23,0.42,6.65718909760417,3.216060460421963
+52,Buyer_52_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",4430,3985,64,0.47,6.575077318068245,3.39601645663947
+53,Buyer_53_Compost,compost,"compost, Fruit Pulp, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",1178,2457,22,0.47,6.777050388629884,3.743304348033771
+54,Buyer_54_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",1092,825,38,0.75,6.870031094912239,3.817711461057119
+55,Buyer_55_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",4220,4879,47,0.97,6.571199391751221,3.4909519609418975
+56,Buyer_56_Biofuel,biofuel,"biofuel, Animal Fat Residue, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",3693,624,66,0.24,6.662447551103187,3.4437886191727642
+57,Buyer_57_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",7964,1359,44,0.58,6.444733434392405,3.945059666540345
+58,Buyer_58_Animal_Feed,animal_feed,"animal_feed, Dairy Whey, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",1664,123,36,0.6,6.956031752263334,3.96060227352939
+59,Buyer_59_Biofuel,biofuel,"biofuel, Used Cooking Oil, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",4737,3733,65,0.36,6.980057119481722,3.214283513749262
+60,Buyer_60_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",3329,1929,58,0.63,6.941539597227224,3.273483844151909
+61,Buyer_61_Bioenergy,bioenergy,"bioenergy, Poultry Residue, Expired Packaged Food","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",6287,645,18,0.42,6.739771995381631,3.2121197423193983
+62,Buyer_62_Compost,compost,"compost, Vegetable Residue, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",1439,806,47,0.88,6.968192536482326,3.6248283280293525
+63,Buyer_63_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",2285,2102,24,0.62,6.95270149293624,3.9811682591767603
+64,Buyer_64_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",1617,2884,36,0.94,6.540441859962934,3.861038192533605
+65,Buyer_65_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",2118,2131,31,0.41,6.998318820204456,3.687760915261658
+66,Buyer_66_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",884,4690,11,0.3,6.575028547027919,3.6363193805797938
+67,Buyer_67_Bioenergy,bioenergy,"bioenergy, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",2573,3844,65,0.66,6.422393372024016,3.320061107088601
+68,Buyer_68_Compost,compost,"compost, Fruit Pulp, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",790,1122,15,0.22,6.52263477368282,3.9097408340672475
+69,Buyer_69_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",4253,811,54,0.26,6.8171582559019175,3.446902511055908
+70,Buyer_70_Bioenergy,bioenergy,"bioenergy, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",1182,4333,13,0.82,6.5424427829869725,3.958871292364071
+71,Buyer_71_Bioenergy,bioenergy,"bioenergy, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",1120,3736,78,0.28,6.839900196930328,3.7475941164279565
+72,Buyer_72_Bioenergy,bioenergy,"bioenergy, Poultry Residue, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",777,5678,75,0.99,6.5539423331981,3.725178585565614
+73,Buyer_73_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",7280,2219,57,0.58,6.607863725923638,3.4725282689132384
+74,Buyer_74_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",3813,2370,16,0.96,6.838810552608767,3.6271253766531126
+75,Buyer_75_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food, Meat Trimmings","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",7794,5507,58,0.71,6.958610863763133,3.4887207864012573
+76,Buyer_76_Compost,compost,"compost, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",3601,981,79,0.79,6.564439149750415,3.75922583835332
+77,Buyer_77_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",6283,4116,36,0.32,6.665258532787703,3.9343582798218075
+78,Buyer_78_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",5492,1423,20,0.85,6.584453603207017,3.631324954571019
+79,Buyer_79_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",7324,4709,33,0.63,6.4492947532360905,3.7771466940198923
+80,Buyer_80_Compost,compost,"compost, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",6992,2469,72,0.51,6.930715554198028,3.732098619218348
+81,Buyer_81_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",3312,2947,48,0.35,6.958445501794477,3.2684049278467633
+82,Buyer_82_Bioenergy,bioenergy,"bioenergy, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",1861,3656,48,0.84,6.502271395630101,3.7551528502840705
+83,Buyer_83_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",6350,4642,28,0.69,6.512459510510113,3.3693178452176196
+84,Buyer_84_Bioenergy,bioenergy,"bioenergy, Meat Trimmings","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",5196,818,48,0.75,6.96788731368611,3.308262454679193
+85,Buyer_85_Animal_Feed,animal_feed,"animal_feed, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",4803,3469,29,0.44,6.892603203136398,3.9870682149383767
+86,Buyer_86_Bioenergy,bioenergy,"bioenergy, Fish Waste, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",5358,4233,31,0.56,6.778179222960139,3.659597399704492
+87,Buyer_87_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",5752,3557,31,0.31,6.433580997915415,3.6804498595100044
+88,Buyer_88_Animal_Feed,animal_feed,"animal_feed, Grain Husk, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",5989,145,59,0.21,6.798452724501656,3.5896584977178794
+89,Buyer_89_Compost,compost,"compost, Fruit Pulp, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",2819,5842,69,0.6,6.9646788043806165,3.292369398725746
+90,Buyer_90_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5239,1274,77,0.98,6.722300017525273,3.7962088416227044
+91,Buyer_91_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food, Meat Trimmings","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",2595,1083,25,0.35,6.893544080561588,3.3417363948776453
+92,Buyer_92_Bioenergy,bioenergy,"bioenergy, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",1773,1873,55,0.62,6.5278378217155275,3.5575004232161125
+93,Buyer_93_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",3017,386,26,0.35,6.582643556505449,3.3614224833134685
+94,Buyer_94_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",1376,3213,72,0.82,6.537990399234574,3.6518448197633977
+95,Buyer_95_Compost,compost,"compost, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",2709,5943,72,0.39,6.692374887038594,3.2156309026029137
+96,Buyer_96_Bioenergy,bioenergy,"bioenergy, Meat Trimmings, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",2579,5591,21,0.64,6.776714460797381,3.2991731093419654
+97,Buyer_97_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",6931,1821,40,0.65,6.638949342923169,3.864131738682917
+98,Buyer_98_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",6232,3971,61,0.51,6.970009111910591,3.3660632796151075
+99,Buyer_99_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",7461,2322,11,0.68,6.584492948894158,3.213932715355216
+100,Buyer_100_Bioenergy,bioenergy,"bioenergy, Fish Waste, Meat Trimmings","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",3309,122,79,0.81,6.619824745621466,3.2612823175840027
+101,Buyer_101_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",829,201,44,0.36,6.519537288552616,3.755000741965762
+102,Buyer_102_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",7361,469,35,0.48,6.974735661124921,3.2753028884430027
+103,Buyer_103_Bioenergy,bioenergy,"bioenergy, Fish Waste, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",4119,2699,44,0.28,6.451697222612014,3.899433794901853
+104,Buyer_104_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",4390,3175,63,0.49,6.643654955751431,3.4835130514459207
+105,Buyer_105_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",1954,4380,18,0.29,6.820847642618714,3.3219528403884286
+106,Buyer_106_Compost,compost,"compost, Vegetable Residue, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",1660,5036,71,0.8,6.5773691387125135,3.809625076407034
+107,Buyer_107_Bioenergy,bioenergy,"bioenergy, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",1654,5417,16,0.79,6.620651484126808,3.4444510418378367
+108,Buyer_108_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",4473,5986,27,0.64,6.711061247108875,3.634514117450079
+109,Buyer_109_Compost,compost,"compost, Vegetable Residue, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",7175,3811,22,0.2,6.950154611388258,3.4115092341270854
+110,Buyer_110_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",768,2825,33,0.4,6.691668339902289,3.405682912347273
+111,Buyer_111_Animal_Feed,animal_feed,"animal_feed, Grain Husk, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",6999,1462,23,0.89,6.675812922733576,3.8869744640952915
+112,Buyer_112_Compost,compost,"compost, Vegetable Residue, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",748,1878,28,0.72,6.708948281878033,3.4240907954315154
+113,Buyer_113_Bioenergy,bioenergy,"bioenergy, Meat Trimmings, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",7865,30,31,0.89,6.54409453560282,3.8221078832600677
+114,Buyer_114_Biofuel,biofuel,"biofuel, Used Cooking Oil, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",7902,4446,10,0.95,6.499495180177112,3.721287534630168
+115,Buyer_115_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",7237,1454,36,0.8,6.968257858884982,3.746831886766543
+116,Buyer_116_Compost,compost,"compost, Restaurant Prep Waste, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",4726,337,52,0.58,6.4412475514909815,3.6660437784508244
+117,Buyer_117_Compost,compost,"compost, Fruit Pulp, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",2801,1822,30,0.44,6.899640282409213,3.4433032142297995
+118,Buyer_118_Animal_Feed,animal_feed,"animal_feed, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",3981,4364,67,0.53,6.412386127451779,3.6303884091897327
+119,Buyer_119_Bioenergy,bioenergy,"bioenergy, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",3532,3317,33,0.4,6.992640056102434,3.7576133360541695
+120,Buyer_120_Bioenergy,bioenergy,"bioenergy, Poultry Residue, Expired Packaged Food","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",4207,1437,51,0.74,6.526819185966517,3.7270406143988546
+121,Buyer_121_Bioenergy,bioenergy,"bioenergy, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",2843,1834,14,0.67,6.498578634510729,3.859756711986213
+122,Buyer_122_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",816,2054,12,0.48,6.631677369083325,3.254452494201326
+123,Buyer_123_Bioenergy,bioenergy,"bioenergy, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",1475,4803,10,0.94,6.659448662236627,3.5927555320834417
+124,Buyer_124_Bioenergy,bioenergy,"bioenergy, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",5133,5237,38,0.64,6.84280378548239,3.9761810527299812
+125,Buyer_125_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",2342,4184,19,0.52,6.9581119857268785,3.421986283712494
+126,Buyer_126_Animal_Feed,animal_feed,"animal_feed, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",5974,3716,33,0.9,6.820495950512814,3.539954011273048
+127,Buyer_127_Compost,compost,"compost, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",2616,5701,50,0.58,6.492301471245877,3.8887475313099533
+128,Buyer_128_Animal_Feed,animal_feed,"animal_feed, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",3069,5940,63,0.63,6.945771407656574,3.857835997012543
+129,Buyer_129_Animal_Feed,animal_feed,"animal_feed, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",7735,3893,71,0.73,6.8361887524578515,3.8623283375432518
+130,Buyer_130_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",1795,2426,78,0.38,6.870933083825305,3.9943989680352496
+131,Buyer_131_Compost,compost,"compost, Restaurant Prep Waste, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",1877,1478,73,0.59,6.829493500821258,3.83067834970169
+132,Buyer_132_Animal_Feed,animal_feed,"animal_feed, Grain Husk, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",1867,5238,75,0.61,6.752260606069885,3.612075318683928
+133,Buyer_133_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",5027,1954,28,0.9,6.939083036672063,3.557589366932278
+134,Buyer_134_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",6141,3114,28,0.81,6.721629192601534,3.3462472758315136
+135,Buyer_135_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",5983,1235,45,0.33,6.800168213742925,3.857052553967082
+136,Buyer_136_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",3932,4397,79,0.97,6.822781789736053,3.209726684872348
+137,Buyer_137_Biofuel,biofuel,"biofuel, Used Cooking Oil, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",7995,3981,76,0.57,6.494698480878765,3.443025337445988
+138,Buyer_138_Compost,compost,"compost, Vegetable Residue, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5549,4158,72,0.86,6.585813721722629,3.4603105562304615
+139,Buyer_139_Compost,compost,"compost, Restaurant Prep Waste, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",3296,2376,14,0.82,6.938345438626527,3.7845694067485294
+140,Buyer_140_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",4780,5134,26,0.55,6.59479473045952,3.552592416926778
+141,Buyer_141_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",3917,840,28,0.83,6.597031222334953,3.8946100156164247
+142,Buyer_142_Biofuel,biofuel,"biofuel, Animal Fat Residue, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",4282,3759,45,0.95,6.581452020572793,3.7625744254588644
+143,Buyer_143_Biofuel,biofuel,"biofuel, Animal Fat Residue, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",7216,2640,50,0.39,6.9183464288523115,3.7588110103032304
+144,Buyer_144_Biofuel,biofuel,"biofuel, Used Cooking Oil, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",2323,1421,74,0.66,6.659751728131115,3.7379082764003133
+145,Buyer_145_Compost,compost,"compost, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5245,3769,50,0.66,6.5564280132161405,3.297300829640162
+146,Buyer_146_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",2124,1873,13,0.92,6.948982746543658,3.9678999154569445
+147,Buyer_147_Bioenergy,bioenergy,"bioenergy, Fish Waste, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",5569,3491,51,0.32,6.545475709514823,3.612229660398235
+148,Buyer_148_Biofuel,biofuel,"biofuel, Used Cooking Oil, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",4405,5390,73,0.38,6.736884066319288,3.6143973147111956
+149,Buyer_149_Biofuel,biofuel,"biofuel, Used Cooking Oil, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",618,3490,12,0.54,6.471234097457667,3.5789854780183297
+150,Buyer_150_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",2120,2450,45,0.43,6.477614064361423,3.6081963403940303
+151,Buyer_151_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",3992,2181,56,0.47,6.483498417314135,3.6160974527845724
+152,Buyer_152_Animal_Feed,animal_feed,"animal_feed, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",2553,4032,16,0.92,6.894137150014544,3.594172311953591
+153,Buyer_153_Biofuel,biofuel,"biofuel, Used Cooking Oil, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",4808,611,49,0.71,6.602335797259004,3.9475306707137823
+154,Buyer_154_Compost,compost,"compost, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",3096,3676,11,0.73,6.793401381116521,3.3361590289661907
+155,Buyer_155_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",2783,48,40,0.76,6.530324788786475,3.338202811397937
+156,Buyer_156_Bioenergy,bioenergy,"bioenergy, Poultry Residue, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",7862,438,21,0.34,6.763791669356663,3.843960689924526
+157,Buyer_157_Compost,compost,"compost, Restaurant Prep Waste, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5881,5119,46,0.99,6.806228130970008,3.8748500587548156
+158,Buyer_158_Animal_Feed,animal_feed,"animal_feed, Dairy Whey, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",7189,4601,63,0.43,6.8672134511627485,3.447066565556752
+159,Buyer_159_Compost,compost,"compost, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",6376,2323,47,0.21,6.8999192355403,3.7678004273081562
+160,Buyer_160_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",4411,1775,12,0.3,6.993923332050223,3.9295712941317102
+161,Buyer_161_Biofuel,biofuel,"biofuel, Animal Fat Residue, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",7336,2245,41,0.21,6.892044999883044,3.296274447291443
+162,Buyer_162_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",6559,3251,18,0.44,6.796575518827884,3.2141351294011598
+163,Buyer_163_Compost,compost,"compost, Vegetable Residue, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",1930,2124,45,0.58,6.875902075647943,3.606983827134455
+164,Buyer_164_Compost,compost,"compost, Fruit Pulp, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",7373,1123,77,0.24,6.899467142584876,3.557452994521048
+165,Buyer_165_Compost,compost,"compost, Restaurant Prep Waste, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",4136,1063,45,0.97,6.930546363766014,3.7513476008517666
+166,Buyer_166_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",5683,5156,48,0.2,6.8597710344301195,3.7552049386569815
+167,Buyer_167_Bioenergy,bioenergy,"bioenergy, Meat Trimmings, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",1008,1732,13,0.71,6.864843975748004,3.6240245387334675
+168,Buyer_168_Compost,compost,"compost, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",1486,1994,61,0.46,6.978721907003857,3.6228973101708686
+169,Buyer_169_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",2698,4057,28,0.39,6.637005768182552,3.6500448042397404
+170,Buyer_170_Compost,compost,"compost, Fruit Pulp, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5884,4777,76,0.29,6.424112488039233,3.22096333318843
+171,Buyer_171_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",3140,3107,32,0.57,6.505121945070954,3.593176663937715
+172,Buyer_172_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",5054,3651,10,0.58,6.593607968345405,3.9736407050439304
+173,Buyer_173_Compost,compost,"compost, Fruit Pulp, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",7642,4901,34,0.3,6.733149492537322,3.366997903418314
+174,Buyer_174_Biofuel,biofuel,"biofuel, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",1929,1474,20,0.82,6.699839839973507,3.4282621604582233
+175,Buyer_175_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",7249,870,79,0.89,6.682578970911209,3.258941618929692
+176,Buyer_176_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",3409,1981,33,0.28,6.531395492235141,3.7422107568661778
+177,Buyer_177_Bioenergy,bioenergy,"bioenergy, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",2147,1511,25,0.61,6.615271956913798,3.8847970799140583
+178,Buyer_178_Compost,compost,"compost, Vegetable Residue, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",2525,5449,23,0.68,6.415679054281493,3.231555910831915
+179,Buyer_179_Biofuel,biofuel,"biofuel, Used Cooking Oil, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",5835,5838,47,0.29,6.928042568354698,3.904246869359655
+180,Buyer_180_Biofuel,biofuel,"biofuel, Used Cooking Oil, Animal Fat Residue","Used Cooking Oil, Animal Fat Residue",7474,2580,13,0.49,6.50346609823391,3.8002256886425054
+181,Buyer_181_Bioenergy,bioenergy,"bioenergy, Meat Trimmings, Poultry Residue","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",2017,4267,35,0.52,6.431773089880285,3.7385349959021346
+182,Buyer_182_Compost,compost,"compost, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5879,2161,56,0.52,6.7839317845573195,3.3473023285681194
+183,Buyer_183_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",6972,3975,15,0.62,6.837468976373377,3.7336469390736964
+184,Buyer_184_Animal_Feed,animal_feed,"animal_feed, Grain Husk, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",1839,3778,77,0.88,6.875866024023268,3.9556244048320757
+185,Buyer_185_Compost,compost,"compost, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",7161,3312,40,0.87,6.520249948644596,3.873918608517249
+186,Buyer_186_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels, Grain Husk","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",4458,1836,35,0.74,6.539187841261417,3.9201008960640125
+187,Buyer_187_Biofuel,biofuel,"biofuel, Animal Fat Residue, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",2208,1514,28,0.31,6.791168511821455,3.639958614838527
+188,Buyer_188_Compost,compost,"compost, Vegetable Residue","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",4568,4064,41,0.42,6.891582690898631,3.403139529603247
+189,Buyer_189_Animal_Feed,animal_feed,"animal_feed, Bakery Surplus","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",4957,3713,49,0.69,6.6327355042836516,3.321699158981738
+190,Buyer_190_Animal_Feed,animal_feed,"animal_feed, Root/Tuber Peels","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",3948,2328,37,0.55,6.503870710025431,3.300852011881997
+191,Buyer_191_Compost,compost,"compost, Restaurant Prep Waste","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",4759,2975,25,0.84,6.7259789007579185,3.603112969679837
+192,Buyer_192_Bioenergy,bioenergy,"bioenergy, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",962,3314,41,0.65,6.497297232602821,3.766953689655728
+193,Buyer_193_Bioenergy,bioenergy,"bioenergy, Expired Packaged Food, Meat Trimmings","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",3366,762,56,0.64,6.6059426160995915,3.6840695316281096
+194,Buyer_194_Compost,compost,"compost, Vegetable Residue, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",6563,1235,72,0.78,6.7548564195050025,3.929573040266596
+195,Buyer_195_Animal_Feed,animal_feed,"animal_feed, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",4402,2402,76,0.6,6.945628679026482,3.2412270960362424
+196,Buyer_196_Animal_Feed,animal_feed,"animal_feed, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",859,5588,57,0.44,6.662589079485672,3.63636990962275
+197,Buyer_197_Bioenergy,bioenergy,"bioenergy, Fish Waste","Meat Trimmings, Fish Waste, Poultry Residue, Expired Packaged Food",3525,1323,58,0.71,6.581190009642238,3.5711249032446646
+198,Buyer_198_Compost,compost,"compost, Fruit Pulp","Vegetable Residue, Fruit Pulp, Restaurant Prep Waste",5989,5988,10,0.62,6.782448602777819,3.5873206136541276
+199,Buyer_199_Animal_Feed,animal_feed,"animal_feed, Grain Husk, Dairy Whey","Grain Husk, Root/Tuber Peels, Bakery Surplus, Dairy Whey",3513,1458,52,0.96,6.9228176387294935,3.3821648105532756
+200,Buyer_200_Biofuel,biofuel,"biofuel, Used Cooking Oil","Used Cooking Oil, Animal Fat Residue",1939,2772,66,0.42,6.878972984960994,3.7740533887447842
